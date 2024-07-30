@@ -224,10 +224,10 @@ Thanks go to these wonderful people:
 	<tbody>
 		<tr>
             <td align="center">
-                <a href="https://github.com/cd-butterfly">
-                    <img src="https://avatars.githubusercontent.com/u/6622823?v=4" width="100;" alt="cd-butterfly"/>
+                <a href="https://github.com/keiso-team-i">
+                    <img src="https://avatars.githubusercontent.com/u/62142679?v=4" width="100;" alt="keiso-team-i"/>
                     <br />
-                    <sub><b>cd-butterfly</b></sub>
+                    <sub><b>keiso-team-i</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -268,6 +268,13 @@ Thanks go to these wonderful people:
 		</tr>
 		<tr>
             <td align="center">
+                <a href="https://github.com/cd-butterfly">
+                    <img src="https://avatars.githubusercontent.com/u/6622823?v=4" width="100;" alt="cd-butterfly"/>
+                    <br />
+                    <sub><b>cd-butterfly</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/ctrleffive">
                     <img src="https://avatars.githubusercontent.com/u/35224957?v=4" width="100;" alt="ctrleffive"/>
                     <br />
@@ -302,6 +309,8 @@ Thanks go to these wonderful people:
                     <sub><b>Yogesh Mane</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/ouabing">
                     <img src="https://avatars.githubusercontent.com/u/1430376?v=4" width="100;" alt="ouabing"/>
@@ -309,8 +318,6 @@ Thanks go to these wonderful people:
                     <sub><b>abing</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/hieuphan1030">
                     <img src="https://avatars.githubusercontent.com/u/108206954?v=4" width="100;" alt="hieuphan1030"/>
